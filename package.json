@@ -1,0 +1,12 @@
+{
+  "name": "topup-bot",
+  "version": "1.0.0",
+  "description": "Telegram Top-Up Bot with multi-language support, full plan details, payment flow, and admin notifications",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
